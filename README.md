@@ -1,7 +1,7 @@
 # MOD FILE MOVER
 ### by Crispy Business
 
----
+Latest release: https://github.com/CrispyBusinessPL/Mod-File-Mover/releases/latest 
 
 <img width="677" height="755" alt="MOD FILE MOVER Interface" src="https://github.com/user-attachments/assets/25041760-3648-4369-bc95-4d32757b91fa" />
 
